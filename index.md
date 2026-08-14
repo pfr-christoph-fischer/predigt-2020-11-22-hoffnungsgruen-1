@@ -10,7 +10,7 @@ summary: "Tod und Sterben -- das klingt nach Trauer und Schmerz, nach dunklen Fa
 source: pfarrplaner
 source_id: "52@www.pfarrplaner.de"
 cover_alt: "Titelbild zur Predigt \"Hoffnungsgrün\"."
-audio: audio.mp3
+audio: hoffnungsgruen-1.mp3
 audio_duration: "8:57"
 legacy_id: 52
 events:
